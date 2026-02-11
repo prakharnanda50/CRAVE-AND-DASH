@@ -1,0 +1,7 @@
+{
+  "name": "Crave & Dash",
+  "description": "A premium mobile food delivery experience designed to stimulate appetite and drive fast ordering decisions with a warm, energetic UI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
